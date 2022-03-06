@@ -1,5 +1,7 @@
 {
     "is_on": true,
     "is_banner": true, 
-    "clickToShowAds": 3
+    "clickToShowAds": 3,
+    "disableClosePurchase": false,
+    "freeUsingWithAds": true
 }

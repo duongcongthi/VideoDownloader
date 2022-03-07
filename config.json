@@ -2,6 +2,6 @@
     "is_on": true,
     "is_banner": true, 
     "clickToShowAds": 3,
-    "disableClosePurchase": false,
+    "disableClosePurchase": true,
     "needPurchase": false
 }
